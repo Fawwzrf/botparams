@@ -1,0 +1,47 @@
+name: V5 Parameter Matrix Optimizer 24/7
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'
+
+concurrency:
+  group: quant-v5-param-matrix-lock
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run-param-optimizer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Ambil Kode & Checkpoint Terakhir
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Identitas Git untuk Live Sync
+        run: |
+          git config --global user.name "QuantBot V5 AutoSave"
+          git config --global user.email "bot@users.noreply.github.com"
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Library
+        run: pip install requests urllib3
+
+      - name: Jalankan Optimasi Parameter V5 (5 Jam Nonstop)
+        run: python3 -u v5_param_optimizer.py
+
+      - name: Push Checkpoint Akhir Sesi ke Repository
+        if: always()
+        run: |
+          git add hasil_v5_params.txt state_v5_params.json
+          git commit -m "Final session V5 checkpoint save" || echo "Sudah tersimpan"
+          git pull --rebase -X theirs origin main || true
+          git push origin main
