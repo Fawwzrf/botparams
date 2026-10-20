@@ -18021,3 +18021,109 @@ VORTEX_P2_BALANCED     | $5.71      |    -54.3% |  19W/24 L  |    44.2% | 0.44x 
 VORTEX_P4_SCALPER      | $4.20      |    -66.4% |  17W/25 L  |    40.5% | 0.44x         | - 70.0% | 0WL / 0Pos
 ========================================================================================================================
 
+🚀 [17:39:28] [VORTEX_P2_BALANCED   ] BELI MEOWL      ($0.000196) | Alokasi: $1.43 | Vortex (DPP 0.336 | Liq +0.6%)
+🚀 [17:39:28] [VORTEX_P3_MOONBAG    ] BELI MEOWL      ($0.000196) | Alokasi: $2.62 | Vortex (DPP 0.336 | Liq +0.6%)
+
+========================================================================================================================
+🏆 MATRIKS PARAMETER V5.0 (4 VORTEX vs 4 CHRONOS) | Durasi: 52.57 Jam | 2026-10-20 17:39:28 UTC (00:39 WIB)
+🌐 Sesi Aktif: S4_NIGHT | SOL: $106.48 (m5: +0.2%, h1: +0.5%)
+------------------------------------------------------------------------------------------------------------------------
+VARIAN PARAMETER       | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | INTAI/AKTIF
+------------------------------------------------------------------------------------------------------------------------
+VORTEX_P3_MOONBAG      | $10.48     |    -16.2% |  16W/25 L  |    39.0% | 0.88x         | - 56.2% | 0WL / 1Pos
+CHRONOS_P1_FORTRESS    | $9.33      |    -25.4% |  12W/15 L  |    44.4% | 0.53x         | - 28.2% | 1WL / 0Pos
+CHRONOS_P3_AGGRESSIVE  | $7.15      |    -42.8% |  16W/25 L  |    39.0% | 0.55x         | - 47.7% | 1WL / 0Pos
+CHRONOS_P2_STANDARD    | $7.09      |    -43.3% |  12W/21 L  |    36.4% | 0.43x         | - 46.5% | 1WL / 0Pos
+CHRONOS_P4_SWING       | $6.77      |    -45.9% |  11W/20 L  |    35.5% | 0.38x         | - 48.4% | 1WL / 0Pos
+VORTEX_P1_SNIPER       | $6.31      |    -49.6% |  12W/16 L  |    42.9% | 0.31x         | - 54.4% | 1WL / 0Pos
+VORTEX_P2_BALANCED     | $5.71      |    -54.3% |  19W/24 L  |    44.2% | 0.44x         | - 57.1% | 0WL / 1Pos
+VORTEX_P4_SCALPER      | $4.20      |    -66.4% |  17W/25 L  |    40.5% | 0.44x         | - 70.0% | 0WL / 0Pos
+========================================================================================================================
+
+🚀 [17:39:59] [VORTEX_P1_SNIPER     ] BELI MEOWL      ($0.000210) | Alokasi: $1.58 | Vortex (DPP 0.432 | Liq +4.2%)
+🚀 [17:39:59] [CHRONOS_P1_FORTRESS  ] BELI MEOWL      ($0.000210) | Alokasi: $2.05 | Vortex (DPP 0.432 | Liq +4.2%)
+🚀 [17:39:59] [CHRONOS_P2_STANDARD  ] BELI MEOWL      ($0.000210) | Alokasi: $1.42 | Vortex (DPP 0.432 | Liq +4.2%)
+🚀 [17:39:59] [CHRONOS_P3_AGGRESSIVE] BELI MEOWL      ($0.000210) | Alokasi: $1.57 | Vortex (DPP 0.432 | Liq +4.2%)
+🏁 [17:40:37] [VORTEX_P1_SNIPER     ] 🚨 ANTI-RUG EXIT    | MEOWL      | PnL: -0.41 USD (-25.9%) | Ekuitas: $5.90 (-52.8%) | WR: 12W/17L (41%)
+🏁 [17:40:37] [VORTEX_P2_BALANCED   ] 🚨 ANTI-RUG EXIT    | MEOWL      | PnL: -0.29 USD (-20.4%) | Ekuitas: $5.42 (-56.6%) | WR: 19W/25L (43%)
+🏁 [17:40:37] [VORTEX_P3_MOONBAG    ] 🚨 ANTI-RUG EXIT    | MEOWL      | PnL: -0.54 USD (-20.4%) | Ekuitas: $9.94 (-20.5%) | WR: 16W/26L (38%)
+🛡️ [CHRONOS_P1_FORTRESS] Cooldown 20m Aktif (Proteksi Pasar Buruk)
+🏁 [17:40:37] [CHRONOS_P1_FORTRESS  ] 🚨 ANTI-RUG EXIT    | MEOWL      | PnL: -0.53 USD (-25.9%) | Ekuitas: $8.80 (-29.6%) | WR: 12W/16L (43%)
+🛡️ [CHRONOS_P2_STANDARD] Cooldown 20m Aktif (Proteksi Pasar Buruk)
+🏁 [17:40:37] [CHRONOS_P2_STANDARD  ] 🚨 ANTI-RUG EXIT    | MEOWL      | PnL: -0.37 USD (-25.9%) | Ekuitas: $6.72 (-46.2%) | WR: 12W/22L (35%)
+🛡️ [CHRONOS_P3_AGGRESSIVE] Cooldown 20m Aktif (Proteksi Pasar Buruk)
+🏁 [17:40:37] [CHRONOS_P3_AGGRESSIVE] 🚨 ANTI-RUG EXIT    | MEOWL      | PnL: -0.41 USD (-25.9%) | Ekuitas: $6.74 (-46.0%) | WR: 16W/26L (38%)
+
+========================================================================================================================
+🏆 MATRIKS PARAMETER V5.0 (4 VORTEX vs 4 CHRONOS) | Durasi: 52.62 Jam | 2026-10-20 17:42:34 UTC (00:42 WIB)
+🌐 Sesi Aktif: S4_NIGHT | SOL: $106.52 (m5: +0.2%, h1: +0.5%)
+------------------------------------------------------------------------------------------------------------------------
+VARIAN PARAMETER       | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | INTAI/AKTIF
+------------------------------------------------------------------------------------------------------------------------
+VORTEX_P3_MOONBAG      | $9.94      |    -20.5% |  16W/26 L  |    38.1% | 0.86x         | - 56.2% | 0WL / 0Pos
+CHRONOS_P1_FORTRESS    | $8.80      |    -29.6% |  12W/16 L  |    42.9% | 0.49x         | - 29.6% | 0WL / 0Pos
+CHRONOS_P4_SWING       | $6.77      |    -45.9% |  11W/20 L  |    35.5% | 0.38x         | - 48.4% | 0WL / 0Pos
+CHRONOS_P3_AGGRESSIVE  | $6.74      |    -46.0% |  16W/26 L  |    38.1% | 0.54x         | - 49.3% | 0WL / 0Pos
+CHRONOS_P2_STANDARD    | $6.72      |    -46.2% |  12W/22 L  |    35.3% | 0.41x         | - 48.6% | 0WL / 0Pos
+VORTEX_P1_SNIPER       | $5.90      |    -52.8% |  12W/17 L  |    41.4% | 0.30x         | - 54.9% | 0WL / 0Pos
+VORTEX_P2_BALANCED     | $5.42      |    -56.6% |  19W/25 L  |    43.2% | 0.43x         | - 58.5% | 0WL / 0Pos
+VORTEX_P4_SCALPER      | $4.20      |    -66.4% |  17W/25 L  |    40.5% | 0.44x         | - 70.0% | 0WL / 0Pos
+========================================================================================================================
+
+🚀 [17:45:04] [VORTEX_P3_MOONBAG    ] BELI Pokécity   ($0.000350) | Alokasi: $2.49 | Vortex (DPP 0.030 | Liq +13.7%)
+🚀 [17:45:29] [VORTEX_P1_SNIPER     ] BELI Pokécity   ($0.000376) | Alokasi: $1.47 | Vortex (DPP 0.047 | Liq +18.1%)
+
+========================================================================================================================
+🏆 MATRIKS PARAMETER V5.0 (4 VORTEX vs 4 CHRONOS) | Durasi: 52.68 Jam | 2026-10-20 17:45:41 UTC (00:45 WIB)
+🌐 Sesi Aktif: S4_NIGHT | SOL: $106.49 (m5: -0.1%, h1: +0.3%)
+------------------------------------------------------------------------------------------------------------------------
+VARIAN PARAMETER       | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | INTAI/AKTIF
+------------------------------------------------------------------------------------------------------------------------
+VORTEX_P3_MOONBAG      | $9.94      |    -20.5% |  16W/26 L  |    38.1% | 0.86x         | - 56.2% | 0WL / 1Pos
+CHRONOS_P1_FORTRESS    | $8.80      |    -29.6% |  12W/16 L  |    42.9% | 0.49x         | - 29.6% | 0WL / 0Pos
+CHRONOS_P4_SWING       | $6.77      |    -45.9% |  11W/20 L  |    35.5% | 0.38x         | - 48.4% | 0WL / 0Pos
+CHRONOS_P3_AGGRESSIVE  | $6.74      |    -46.0% |  16W/26 L  |    38.1% | 0.54x         | - 49.3% | 0WL / 0Pos
+CHRONOS_P2_STANDARD    | $6.72      |    -46.2% |  12W/22 L  |    35.3% | 0.41x         | - 48.6% | 0WL / 0Pos
+VORTEX_P1_SNIPER       | $5.90      |    -52.8% |  12W/17 L  |    41.4% | 0.30x         | - 54.9% | 0WL / 1Pos
+VORTEX_P2_BALANCED     | $5.42      |    -56.6% |  19W/25 L  |    43.2% | 0.43x         | - 58.5% | 1WL / 0Pos
+VORTEX_P4_SCALPER      | $4.20      |    -66.4% |  17W/25 L  |    40.5% | 0.44x         | - 70.0% | 1WL / 0Pos
+========================================================================================================================
+
+💵 [VORTEX_P1_SNIPER     ] TP-1 (+19.7%) pada Pokécity | Cair: +$1.14
+💵 [VORTEX_P3_MOONBAG    ] TP-1 (+28.8%) pada Pokécity | Cair: +$1.11
+🏁 [17:47:02] [VORTEX_P1_SNIPER     ] 🎯 TRAILING PROFIT  | Pokécity   | PnL: +0.20 USD (+13.4%) | Ekuitas: $6.10 (-51.2%) | WR: 13W/17L (43%)
+🏁 [17:47:02] [VORTEX_P3_MOONBAG    ] 🎯 TRAILING PROFIT  | Pokécity   | PnL: +0.42 USD (+16.9%) | Ekuitas: $10.36 (-17.1%) | WR: 17W/26L (40%)
+
+========================================================================================================================
+🏆 MATRIKS PARAMETER V5.0 (4 VORTEX vs 4 CHRONOS) | Durasi: 52.73 Jam | 2026-10-20 17:48:47 UTC (00:48 WIB)
+🌐 Sesi Aktif: S4_NIGHT | SOL: $106.61 (m5: +0.1%, h1: +0.1%)
+------------------------------------------------------------------------------------------------------------------------
+VARIAN PARAMETER       | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | INTAI/AKTIF
+------------------------------------------------------------------------------------------------------------------------
+VORTEX_P3_MOONBAG      | $10.36     |    -17.1% |  17W/26 L  |    39.5% | 0.88x         | - 56.2% | 0WL / 0Pos
+CHRONOS_P1_FORTRESS    | $8.80      |    -29.6% |  12W/16 L  |    42.9% | 0.49x         | - 29.6% | 0WL / 0Pos
+CHRONOS_P4_SWING       | $6.77      |    -45.9% |  11W/20 L  |    35.5% | 0.38x         | - 48.4% | 0WL / 0Pos
+CHRONOS_P3_AGGRESSIVE  | $6.74      |    -46.0% |  16W/26 L  |    38.1% | 0.54x         | - 49.3% | 0WL / 0Pos
+CHRONOS_P2_STANDARD    | $6.72      |    -46.2% |  12W/22 L  |    35.3% | 0.41x         | - 48.6% | 0WL / 0Pos
+VORTEX_P1_SNIPER       | $6.10      |    -51.2% |  13W/17 L  |    43.3% | 0.32x         | - 54.9% | 0WL / 0Pos
+VORTEX_P2_BALANCED     | $5.42      |    -56.6% |  19W/25 L  |    43.2% | 0.43x         | - 58.5% | 1WL / 0Pos
+VORTEX_P4_SCALPER      | $4.20      |    -66.4% |  17W/25 L  |    40.5% | 0.44x         | - 70.0% | 1WL / 0Pos
+========================================================================================================================
+
+
+========================================================================================================================
+🏆 MATRIKS PARAMETER V5.0 (4 VORTEX vs 4 CHRONOS) | Durasi: 52.78 Jam | 2026-10-20 17:51:52 UTC (00:51 WIB)
+🌐 Sesi Aktif: S4_NIGHT | SOL: $106.69 (m5: +0.1%, h1: +0.1%)
+------------------------------------------------------------------------------------------------------------------------
+VARIAN PARAMETER       | EKUITAS    | ROI (%)   | WIN/LOSS   | WIN RATE  | PROFIT FACTOR | MAX DD   | INTAI/AKTIF
+------------------------------------------------------------------------------------------------------------------------
+VORTEX_P3_MOONBAG      | $10.36     |    -17.1% |  17W/26 L  |    39.5% | 0.88x         | - 56.2% | 0WL / 0Pos
+CHRONOS_P1_FORTRESS    | $8.80      |    -29.6% |  12W/16 L  |    42.9% | 0.49x         | - 29.6% | 0WL / 0Pos
+CHRONOS_P4_SWING       | $6.77      |    -45.9% |  11W/20 L  |    35.5% | 0.38x         | - 48.4% | 0WL / 0Pos
+CHRONOS_P3_AGGRESSIVE  | $6.74      |    -46.0% |  16W/26 L  |    38.1% | 0.54x         | - 49.3% | 0WL / 0Pos
+CHRONOS_P2_STANDARD    | $6.72      |    -46.2% |  12W/22 L  |    35.3% | 0.41x         | - 48.6% | 0WL / 0Pos
+VORTEX_P1_SNIPER       | $6.10      |    -51.2% |  13W/17 L  |    43.3% | 0.32x         | - 54.9% | 0WL / 0Pos
+VORTEX_P2_BALANCED     | $5.42      |    -56.6% |  19W/25 L  |    43.2% | 0.43x         | - 58.5% | 0WL / 0Pos
+VORTEX_P4_SCALPER      | $4.20      |    -66.4% |  17W/25 L  |    40.5% | 0.44x         | - 70.0% | 0WL / 0Pos
+========================================================================================================================
+
